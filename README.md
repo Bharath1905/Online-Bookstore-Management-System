@@ -3,21 +3,21 @@ A responsive website that displays available books in the store, along with thei
 
 ## Screenshots:
 <p>
-  <kbd><img src="screenshot/index.png" width="350" height="450"/></kbd>
+  <kbd><img src="index.png" width="350" height="450"/></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><img src="screenshot/category.png" width="350" height="450"/></kbd>
+  <kbd><img src="category.png" width="350" height="450"/></kbd>
 </p>
 
 <p>
-  <kbd><img src="screenshot/search.png" width="350" height="450"/></kbd>
+  <kbd><img src="search.png" width="350" height="450"/></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><img src="screenshot/description.png" width="350" height="450"/></kbd>
+  <kbd><img src="description.png" width="350" height="450"/></kbd>
 </p>
 
 <p>
-  <kbd><img src="screenshot/cart.png" width="350" height="250"/></kbd>
+  <kbd><img src="cart.png" width="350" height="250"/></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><img src="screenshot/query.png" width="350" height="250"/></kbd>
+  <kbd><img src="query.png" width="350" height="250"/></kbd>
 </p>
 
 ## Setup:
@@ -26,11 +26,5 @@ A responsive website that displays available books in the store, along with thei
 * Go to Xampp control panel and start apache and MySQL.
 * Import the database bookstore.sql in MySql server.
 * Set up the connection credentials in dbconnect.php </br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="screenshot/connection.png" width="200" height="100"/></kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="connection.png" width="200" height="100"/></kbd>
 * Thats it. Open <a href="http://localhost/bookstore/">localhost/bookstore/</a> in your browser
-
-## Website Link :
-<a href="http://shivangibookshop.byethost7.com">http://shivangibookshop.byethost7.com</a>
-
-## Licence :
-MIT - see the accompanying [LICENSE](https://github.com/shivangigupta1404/BookStore/blob/master/LICENSE) file for details.
